@@ -16,7 +16,7 @@
 
 		
 			<h2>Jobs</h2>
-	        <figure> 
+	        <figure class="xchen"> 
 				<img src="images/xinyi03.png" alt="beijing">
 				<figcaption> In Beijing, China</figcaption>
 			</figure>

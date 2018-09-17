@@ -16,7 +16,7 @@
 
 		
 			<h2>personal</h2>
-	        <figure> 
+	        <figure class="xchen"> 
 				<img src="images/xinyi02.png" alt="bangkok">
 				<figcaption> In Bangkok, Thailand</figcaption>
 			</figure>

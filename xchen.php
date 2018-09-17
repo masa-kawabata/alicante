@@ -5,7 +5,7 @@
 
 		<header>
 			<h1>Xinyi Chen</h1>
-			<div>hahaha</div>
+	
 		</header>
 
 

@@ -43,6 +43,7 @@ In 2015, I came to Rochester to pursue my bachelor’s degree. Started off with 
 <p>
 	For the summer of my sophomore year, I applied for an internship at an asset management company in Shanghai. As I started as an equity research intern in this company, I learned multiple ways to analysis a company and its stock price to see if they are worthy to invest. On the other hand, I have gained interest on business analyst from many internal meetings, that is to use big data and programming to predict future movement of stocks. After I did more research on business analyst, and taking some classes in it, I decided to switch my major into business analyst. 
 </p>
+<a href="urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
 <?php include "inc/scripts.inc"; ?>
 
 </body>

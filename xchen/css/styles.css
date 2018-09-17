@@ -1,0 +1,125 @@
+ @import url('http://fonts.googleapis.com/css?family=Ubuntu');
+
+ body{
+    color:#444444;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+p{
+
+	margin: 13px;
+	margin-left: 10px;
+    line-height: 1.4em;
+    padding: 10px
+
+	
+	}
+
+
+
+h1{
+
+	color:#09020C;
+	border-left: 10px solid #2F1B3D;
+	font-size: 50px;
+	font-family: "Palatino Linotype","Book Antiqua", Palatino, serif;
+}
+
+
+
+
+h2{
+
+	padding-top: 50px;
+
+	margin: 10px;
+    font-weight:normal;
+    font-family: "Palatino Linotype","Book Antiqua", Palatino, serif;
+    border-bottom: 1px solid lightgrey;
+
+}
+
+
+
+
+figure{
+
+	float: left;
+	margin: 5px;
+	padding: 5px;
+
+}
+
+
+
+
+
+a{
+	color: #0A2754;
+	text-decoration: none;
+	padding: 10px;
+	display: inline-block; 
+	background-color: lightgrey;
+	border-style: groove;
+	border-color: white;
+
+	
+
+}
+
+
+
+a:hover{
+
+	color: #AD235F;
+
+}
+
+
+
+a:active{
+	
+     color: #0C264F; 
+
+}
+
+
+
+p:before{
+
+     content: "---"
+
+}
+
+
+
+p:after{
+
+	 content: "...........   ;D";
+}
+
+
+
+.container{
+
+	width: 90%;
+	margin: 0 auto;
+	max-width: 960px;
+	background: #B2DBB7;
+
+
+
+}
+
+
+
+
+@media (max-width: 770px) {
+    .container { display: block; } 
+} 
+
+@media (max-width: 780px) {
+    .first { display: block; } 
+} 
+

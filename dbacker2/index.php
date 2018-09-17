@@ -14,8 +14,12 @@
 
 	<h2>How I decided to Study DMS</h2>
 
+	<figure class="dbacker2">		
+		
 	<img src="images/profpicture.jpg" alt="David Backer Photo" width="300" height="300">
 
+		</figure>	
+		
 	</header>
 
 

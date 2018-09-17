@@ -15,7 +15,7 @@
 
 		
 			<h2>About Xinyi</h2>
-	        <figure> 
+	        <figure class="xchen"> 
 				<img src="images/xinyi01.png" alt="tianjin">
 			</figure>
 

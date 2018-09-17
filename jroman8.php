@@ -1,9 +1,11 @@
-<?php include "scripts/inc/html-top.inc"; ?>
+<?php include "inc/html-top.inc"; ?>
 <body>
-	<?php include "scripts/inc/nav.inc"; ?>
 	
-	<h3 class="nameHeader">Jonathan Roman</h3>
+	
+	<h1 class="nameHeader">Jonathan Roman</h1>
 
+
+<?php include "inc/nav.inc"; ?> 
 	<div class="JRomanPicture">
 		<img src="images/JRomanPic.jpg" alt="JRomanPic" class="Picture">
 	</div>

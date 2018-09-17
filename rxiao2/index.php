@@ -8,7 +8,7 @@
 
 <?php include "inc/nav.inc";?>
 
-<figure>
+<figure class="rxiao2">
 	<img src="images/jerry.png" alt="jerry photo">
 	<figcaption>A photo of young Renjie</figcaption>
 </figure>

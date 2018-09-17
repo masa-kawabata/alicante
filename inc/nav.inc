@@ -2,9 +2,9 @@
 
 <ul>
 	<li> <a href="index.php">Home</a></li>
-	<li> <a href="personal.php">Personal</a> </li>
-	<li > <a href="jobs.php">Jobs</a> </li>
-	<li> <a href="courses.php">Courses </a> </li>
+	<li> <a href="rxiao2.php">Renjie</a> </li>
+	<li > <a href="xchen.php">Xinyi</a> </li>
+	<li> <a href="jroman8.php">Roman</a> </li>
 </ul>	
 	
 </nav>

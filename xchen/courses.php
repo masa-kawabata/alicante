@@ -18,7 +18,7 @@
 
 		
 			<h2>Courses</h2>
-	        <figure> 
+	        <figure class="xchen"> 
 				<img src="images/xinyi04.png" alt="shanghai">
 				<figcaption>In Shanghai, China</figcaption>
 			</figure>

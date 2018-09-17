@@ -1,0 +1,34 @@
+.menu {text-align: center;
+		font-size: 25px;
+}
+
+
+.menu ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+
+.menu li{
+	display: inline-block;
+	border: 2px solid;
+	background-color: hsl(180, 81%, 67%);
+}
+
+
+.menu a{
+	display: block;
+	color: white;
+	padding: 30px, 40px;
+
+}
+
+.menu a:hover {
+	background-color: hsl(132, 81%, 67%);
+}
+
+.is-current {
+	background-color: hsl(0, 81%, 67%);
+}

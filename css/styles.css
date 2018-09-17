@@ -1,0 +1,36 @@
+body{
+
+    margin:0 auto;
+    width: 90%;
+    max-width: 960px;
+    font-family: Tahoma, Geneva, sans-serif;
+    color:;
+
+ }
+
+
+ h1{
+ 	font-size: 50px;
+ }
+
+
+ p{
+ 	padding-top: 20px
+ 	line-height: 1.75em;
+ 	font-size: 20px;
+ }
+
+
+ figure .rxiao2{
+ 	margin: 10px;
+ 	padding: 15px;
+ 	float: right;
+
+ }
+
+
+ figure .xchen{
+ 	float: left;
+ 	margin: 5px;
+ 	padding: 5px;
+ }

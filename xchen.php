@@ -16,7 +16,7 @@
 		
 			<h2>About Xinyi</h2>
 	        <figure class="xchen"> 
-				<img src="images/xinyi01.png" alt="tianjin">
+				<img src="images/tianjin.png" alt="tianjin">
 			</figure>
 
 			<p>
@@ -26,7 +26,7 @@
 
 			<h2>personal</h2>
 	        <figure> 
-				<img src="images/xinyi02.png" alt="bangkok">
+				<img src="images/bangkok.png" alt="bangkok">
 				<figcaption> In Bangkok, Thailand</figcaption>
 			</figure>
 
@@ -40,7 +40,7 @@
 
             <h2>Jobs</h2>
 	        <figure> 
-				<img src="images/xinyi03.png" alt="beijing">
+				<img src="images/beijing.png" alt="beijing">
 				<figcaption> In Beijing, China</figcaption>
 			</figure>
 
@@ -51,7 +51,7 @@
 			
 			<h2>Courses</h2>
 	        <figure> 
-				<img src="images/xinyi04.png" alt="shanghai">
+				<img src="images/shanghai.png" alt="shanghai">
 				<figcaption>In Shanghai, China</figcaption>
 			</figure>
 
@@ -64,16 +64,6 @@
 			</article>
 
 
-
-<aside>
-
-</aside>
-
-
-<footer>
-
-	
-</footer>
 	<a href="urcsc174.org/assignment01/xchen/index.php">Original Website</a>
 <?php include "inc/scripts.inc"; ?>
 </body>

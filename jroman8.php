@@ -7,7 +7,7 @@
 
 <?php include "inc/nav.inc"; ?> 
 	<div class="JRomanPicture">
-		<img src="images/JRomanPic.jpg" alt="JRomanPic" class="Picture">
+		<img src="images/jroman.jpg" alt="JRomanPic" class="Picture">
 	</div>
 		
 	<div class="contentBlock">

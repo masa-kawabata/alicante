@@ -1,6 +1,6 @@
 <?php include "inc/html-top.inc"; ?>
 
-	<body class="container">
+	<body>
 
 
 		<header>
@@ -15,7 +15,7 @@
 
 		
 			<h2>About Xinyi</h2>
-	        <figure class="xchen"> 
+	        <figure> 
 				<img src="images/tianjin.png" alt="tianjin">
 			</figure>
 

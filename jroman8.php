@@ -2,15 +2,14 @@
 <body>
 	
 	
-	<h1 class="nameHeader">Jonathan Roman</h1>
+	<h1>Jonathan Roman</h1>
 
 
 <?php include "inc/nav.inc"; ?> 
-	<div class="JRomanPicture">
+
 		<img src="images/jroman.jpg" alt="JRomanPic" class="Picture">
 	</div>
-		
-	<div class="contentBlock">
+
 	<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.</p>
 
 
@@ -26,7 +25,6 @@
 	I have also worked as a warehouse employee for my dad, I would often be moving and packaging boxes and/or searching for items that needed to be shipped in the warehouse in order to package. Although it was not the most entertaining job in the world, I learned a lot about my dad's company and would be able to spend a lot of time working with my siblings along with my dad.
 	</p>
 
-	</div>
 	<a href="urcsc174.org/assignment01/jroman8/index.html">Original Website</a>
 <?php include "inc/scripts.inc"; ?>
 </body>

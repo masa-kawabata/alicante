@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <?php include "inc/html-top.inc"; ?>
 <body>
 
@@ -47,4 +46,3 @@ In 2015, I came to Rochester to pursue my bachelor’s degree. Started off with 
 <?php include "inc/scripts.inc"; ?>
 
 </body>
-</html>

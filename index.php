@@ -32,7 +32,7 @@
 			</figure>
 
 	        <p>
-			Xiaojie is an international student currently major in Business Analytics and minor in Computer Science at the University of Rochester. Before that he completed his high school at Walsingham Academy in a little town named Williamsburg. He has lived and studied in Shanghai, China for 16 years. 
+			Renjie is an international student currently major in Business Analytics and minor in Computer Science at the University of Rochester. Before that he completed his high school at Walsingham Academy in a little town named Williamsburg. He has lived and studied in Shanghai, China for 16 years. 
 			</p>
 
 			<a href="rxiao2.php">Click here to get to know more about Renjie...</a>

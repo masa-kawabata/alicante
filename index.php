@@ -12,7 +12,7 @@
 			
 		<article>
 		
-			<h2>About Xinyi</h2>
+			<h2>About Xinyi:</h2>
 
 	        <figure class="xchen"> 
 				<img src="images/tianjin.png" alt="tianjin">
@@ -25,7 +25,7 @@
 			<a href="xchen.php">Click here to get to know more about Xinyi...</a>
 
 
-			<h2>About Renjie</h2>
+			<h2>About Renjie:</h2>
 
 			<figure>
 				<img src="images/jerry.png" alt="renjie">
@@ -38,10 +38,10 @@
 			<a href="rxiao2.php">Click here to get to know more about Renjie...</a>
 
 
-            <h2>About Jonathan</h2>
+            <h2>About Jonathan:</h2>
 
             <figure>
-            	<img src="jroman.jpg" alt="jonathan">
+            	<img src="images/jroman.jpg" alt="jonathan">
             </figure>
 
 		    <p>
